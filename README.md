@@ -1,3 +1,5 @@
+Date:
+expt. 03
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -62,3 +64,6 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/ganesh10082006/Correlation_Regression/assets/151981672/5720784f-b457-45ac-a62c-4ccadf21f23f)
 
 # Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
+

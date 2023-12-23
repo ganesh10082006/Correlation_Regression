@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# NAME: GANESH. G
+# REG.NO: 212223230059
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
